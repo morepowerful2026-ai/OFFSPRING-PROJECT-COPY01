@@ -20,5 +20,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/itsjoshwalls/Live-Shoe-Tracker"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.8.3"
   }
 }
